@@ -22,7 +22,7 @@ a {
 }
 a:hover {
   text-decoration: none;
-  color: purple;
+  color: white;
 }
 
 #banner {
@@ -66,4 +66,9 @@ a:hover {
 #wufoo-zi8e25h1stqov4 {
   color: white;
   font-family: Helvetica;
+}
+
+.formulaire {
+  background-color: grey;
+  opacity: 0.8;
 }
