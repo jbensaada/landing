@@ -7,18 +7,18 @@ body{
   font-family: Helvetica;
 }
 h1{
-  font-family: Courier;
+  font-family: Helvetica;
   font-weight: lighter;
   font-size: 30px;
 }
 h2 {
-  font-family: Courier;
+  font-family: Helvetica;
   color: #C62E65;
   font-weight: lighter;
   font-size: 24px;
 }
 a {
-  color: #232C33;
+  color: white;
 }
 a:hover {
   text-decoration: none;
@@ -61,4 +61,9 @@ a:hover {
 
 #footer a:hover {
   color: pink;
+}
+
+#wufoo-zi8e25h1stqov4 {
+  color: white;
+  font-family: Helvetica;
 }
